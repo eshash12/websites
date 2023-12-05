@@ -1,0 +1,55 @@
+.max-width-1 {
+    max-width: 80vw;
+}
+
+.max-width-2 {
+    max-width: 60vw;
+}
+
+.center{
+    text-align: center;
+}
+.m-auto {
+    margin: auto;
+}
+
+.my-2 {
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+
+.btn {
+    padding: 3px 14px;
+    font-size: 12px;
+    border-radius: 8px;
+    border: 2px solid black;
+    font-family: 'Baloo Bhai 2', sans-serif;
+    transition: all 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: white;
+    background: rgb(7, 103, 56);
+}
+
+.form-input {
+    padding: 3px 10px;
+    padding-top: 2px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 0px 12px;
+    font-family: 'Baloo Bhai 2', sans-serif;
+}
+
+.form-box input,
+textarea {
+    width: 55vw;
+    padding: 2px 8px;
+    margin: 5px;
+    font-size: 12px;
+    font-family: 'Baloo Bhai 2', sans-serif;
+    border-radius: 8px;
+    border: 1.5px solid rgb(9, 121, 67);
+}
